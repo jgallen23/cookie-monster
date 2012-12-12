@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jgallen23/cookie-monster.png)](http://travis-ci.org/jgallen23/cookie-monster)
 # Cookie Monster
 A javascript libary to manage cookies
 
