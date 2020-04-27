@@ -35,7 +35,7 @@
     "scriptkit": "^3.0.0",
     "tap-spec": "^5.0.0",
     "tape-rollup": "^4.6.4",
-    "tape-run": "^7.0.0"
+    "tape-run": "^6.0.1"
   },
   "eslintConfig": {
     "env": {
